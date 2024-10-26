@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="423390ab-9eb8-4e47-a1c8-9bc6b994af87" name="Changes" comment="Plojeto">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/demo/view/MainView.fxml" afterDir="false" />
+    <list default="true" id="423390ab-9eb8-4e47-a1c8-9bc6b994af87" name="Changes" comment="estruturou o projeto Javafx com padrao MVC">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/demo/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/demo/AppMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/demo/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/demo/controller/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/org/demo/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/demo/view/MainView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/demo/view/MainView.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1729897127962</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="estruturou o projeto Javafx com padrao MVC">
+      <created>1729901091360</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729901091360</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,7 +91,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Plojeto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Plojeto" />
+    <MESSAGE value="estruturou o projeto Javafx com padrao MVC" />
+    <option name="LAST_COMMIT_MESSAGE" value="estruturou o projeto Javafx com padrao MVC" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
